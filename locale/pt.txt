@@ -1,0 +1,78 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_4D968D4B_7CDC_AD74_41D2_A5282A0DFFFC.source = https://wa.me/11984272797
+LinkBehaviour_4CFC0FD1_7C44_6CF2_41B1_8550D9BE4F00.source = https://wa.me/11984272797
+LinkBehaviour_4D969D4B_7CDC_AD74_41D8_E0C0A2B74FDB.source = https://wa.me/11984272797
+LinkBehaviour_4E1953F2_7C47_D4B6_4191_7FBC1586CEBB.source = https://wa.me/11984272797
+LinkBehaviour_4DF08CFF_7CDB_F30D_41C6_183D212FD352.source = https://wa.me/11984272797
+LinkBehaviour_4D8F4CFF_7CDB_F30D_41D8_7F786828DFC2.source = https://wa.me/11984272797
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_4F040BD1_7C44_F4F5_41B3_A9D7DE47F24B.text = Falar com o corretor
+QuadHotspotPanoramaOverlayTextImage_4D976D4B_7CDC_AD74_41B1_A0C5DD2C2E82.text = Falar com o corretor
+QuadHotspotPanoramaOverlayTextImage_4D8F9CFF_7CDB_F30D_41DB_56A1D0A828B5.text = Falar com o corretor
+HotspotPanoramaOverlayTextImage_4CE4B56D_7CC4_DD32_41D6_1DEFF82CA369.text = Praia da Enseada
+HotspotPanoramaOverlayTextImage_4C54963C_7DCD_BF96_41CA_1D2B5BACC7B8.text = Praia da Enseada
+HotspotPanoramaOverlayTextImage_4CEB156D_7CC4_DD32_41C6_1F0F4EC4F346.text = Praia da Enseada \
+Canto das Tartarugas \
+Tortugas
+HotspotPanoramaOverlayTextImage_4E3B0A69_7DC4_57A0_41D6_C3447633C731.text = Praia da Enseada \
+Canto das Tartarugas \
+Tortugas
+HotspotPanoramaOverlayTextImage_4CA2C381_7DBC_755E_41DC_B6032D49ED9E.text = Praia das Astúrias
+HotspotPanoramaOverlayTextImage_4EFF9A8F_7DBF_B763_41B7_AEE367A6A6FD.text = Praia das Pitangueiras
+
+## Media
+
+### Audio
+audiores_4C2D8D99_7CFC_ED11_41C2_11BA64642A43.mp3Url = media/audio_4DB049BA_7CFC_5513_41A1_5F3BCF0752D8_pt.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_4DEF9030_7C44_D3B0_41D7_D9E81C1AC577.url = media/panorama_4E11C172_7DC4_B596_41D4_5EDD6461B639_HS_dghdufsb_pt.png
+imlevel_4DE8500F_7C44_D350_41B3_7903F9DC7E5B.url = media/panorama_4E11C172_7DC4_B596_41D4_5EDD6461B639_HS_i44erx6d_pt.png
+imlevel_4DE8301F_7C44_D370_41D5_D17670710419.url = media/panorama_4E11C172_7DC4_B596_41D4_5EDD6461B639_HS_ma0nr5yf_pt.png
+imlevel_4DE9EFEC_7C44_ACD1_41D3_D5AA330FACB0.url = media/panorama_4E11C172_7DC4_B596_41D4_5EDD6461B639_HS_q2z15w1n_pt.png
+imlevel_4DE9AFF4_7C44_ACB1_41A0_199B0BF85D04.url = media/panorama_4E11C172_7DC4_B596_41D4_5EDD6461B639_HS_tnyliwf3_pt.png
+imlevel_4979844B_7CCC_7376_419D_8CB554574B8D.url = media/panorama_58D407C9_7C4B_BC1A_41D8_23A2A1180637_HS_o2m25067_pt.png
+imlevel_497F4425_7CCC_7332_41BF_2D306E8488E4.url = media/panorama_58D5BB00_7C44_740B_41BD_FD3743CA0400_HS_9m419ibv_pt.png
+imlevel_497F6433_7CCC_7316_41AC_F558F9E32325.url = media/panorama_58D5BB00_7C44_740B_41BD_FD3743CA0400_HS_gzcnryg2_pt.png
+imlevel_4978C463_7CCC_7336_41D9_CF158801CB37.url = media/panorama_58DA18DB_7C4B_F43E_41C8_19315B1DE95E_HS_70z9pzgs_pt.png
+
+### Title
+panorama_5AE8F2F4_7C44_540A_41DE_4848C1604E28.label = 1
+panorama_58D407C9_7C4B_BC1A_41D8_23A2A1180637.label = 10
+panorama_58D47D2E_7C4B_AC16_41C8_9C3B0CEFBE9B.label = 11
+panorama_58DBA286_7C4B_D417_41C8_C21CD87D7CAC.label = 12
+panorama_58DB689F_7C4B_D436_41B9_A343A0BF09BD.label = 13
+panorama_58DAFE0C_7C4B_EC1A_41AC_8EDC70A750E3.label = 14
+panorama_58DA18DB_7C4B_F43E_41C8_19315B1DE95E.label = 16
+panorama_58D9AE1B_7C4B_EC3E_41DC_B9A3A00A9B6F.label = 17
+panorama_58D8C3FD_7C4B_DBFA_41B1_2834B543EFC8.label = 18
+panorama_58D8C93D_7C4B_D47A_41AD_7C10F37FC895.label = 19
+panorama_58DFEA82_7C44_540E_41C6_55F3BD475BE8.label = 2
+panorama_58DF8444_7C4B_BC0A_41BC_45164976B92A.label = 21
+panorama_58DF999B_7C4B_B43E_41D7_DD270C427594.label = 22
+panorama_58DF5EEB_7C4B_AC1E_41DD_B215FBA5DA0F.label = 23
+panorama_4CD0C210_7C7C_F7FF_41CE_94F45AE1ACE0.label = 24
+panorama_58D6DFDA_7C44_6C3F_41DE_C62EBC0872D8.label = 3
+panorama_4E11C172_7DC4_B596_41D4_5EDD6461B639.label = 4
+panorama_58D5BB00_7C44_740B_41BD_FD3743CA0400.label = 5
+panorama_58D510D8_7C44_543B_41D0_F55713090824.label = 6
+panorama_58D5E63E_7C44_5C77_41D3_F9583C00DD91.label = 7
+panorama_58D49C74_7C4B_AC0B_41CB_552819828CCD.label = 8
+panorama_58D4923A_7C4B_B47E_41C9_CE1281842717.label = 9
+panorama_4D286D16_7CC4_6D02_41D7_B609FF899A71.label = banheiro
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Guarujá_cobertura
